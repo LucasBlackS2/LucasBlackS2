@@ -260,6 +260,74 @@ while (true) {
 **Deixe uma estrela ⭐ e acompanhe minha evolução!**
 
 </div>
+# 🎮 PAC-MAN DEV MODE
+
+<div align="center">
+
+### 🟡 PAC-MAN está com fome...
+
+**Alimente o Pac-Man com seus commits!**
+
+```text
+        🟡  →  ·  ·  ·  ·  ⚡  ·  ·  ·
+                  ↓
+        👻     👻     👻     👻
+```
+
+### 🍒 Commits são pontos
+
+### ⚡ Grandes commits são Power Pellets
+
+### 👻 Bugs são os fantasmas
+
+### 🏆 Cada contribuição aumenta sua pontuação
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man comendo minhas contribuições"
+    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+<br>
+
+```text
+🟡 PAC-MAN STATUS
+
+🍒 Commits        → COMENDO
+🟢 Contributions  → DEVORANDO
+⚡ Power Pellets   → ATIVADOS
+👻 Bugs           → FUGINDO
+🏆 XP             → SUBINDO
+
+             KEEP CODING...
+```
+
+</div>
+
+---
+
+## 🕹️ DEV ARCADE
+
+| 🕹️ Ação              | 🎮 Recompensa |
+| --------------------- | ------------- |
+| 💻 Fazer commit       | 🍒 +10 XP     |
+| 🚀 Nova feature       | ⭐ +50 XP      |
+| 🐛 Corrigir bug       | 👻 +100 XP    |
+| 🧪 Criar testes       | 🛡️ +75 XP    |
+| 🔥 Grande atualização | ⚡ +250 XP     |
+| 🏆 Finalizar projeto  | 👑 +500 XP    |
+
+> **Objetivo:** manter o Pac-Man sempre alimentado. 🟡
+
 
 ---
 

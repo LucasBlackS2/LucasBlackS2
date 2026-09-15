@@ -259,3 +259,24 @@ while (true) {
 
 **Deixe uma estrela ⭐ e acompanhe minha evolução!**
 </div>
+## 🎮 PAC-MAN DEV MODE
+
+<div align="center">
+
+### 🟡 EAT COMMITS • DEFEAT BUGS • LEVEL UP
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contributions">
+</picture>
+
+</div>

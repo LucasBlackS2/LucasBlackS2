@@ -9,8 +9,9 @@
 <a href="https://github.com/LucasBlackS2">
 <img src="https://img.shields.io/badge/GitHub-LucasBlackS2-0d1117?style=for-the-badge&logo=github">
 </a>
+
 <a href="https://github.com/LucasBlackS2?tab=repositories">
-<img src="https://img.shields.io/badge/Projetos-16-161b22?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Projetos-GitHub-161b22?style=for-the-badge&logo=github">
 </a>
 
 <br><br>
@@ -21,7 +22,7 @@
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 ```java
 public class JoseLucas {
@@ -59,40 +60,91 @@ public class JoseLucas {
 
 🚀 Desenvolvedor em formação, apaixonado por tecnologia e criação de soluções reais.
 
-Meu objetivo é transformar ideias em aplicações **funcionais, modernas e escaláveis**, sempre buscando melhorar minhas habilidades através de projetos práticos.
+Meu objetivo é transformar ideias em aplicações **funcionais, modernas e escaláveis**, sempre buscando evoluir através de projetos práticos.
+
+---
+
+# 🎮 PAC-MAN DEV MODE
+
+<div align="center">
+
+### 🟡 EAT COMMITS • DEFEAT BUGS • LEVEL UP
+
+<picture>
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
+
+<img
+ src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
+ alt="Pac-Man comendo minhas contribuições">
+
+</picture>
+
+<br><br>
+
+```text
+🟡 COMMITS     → 🍒 POINTS
+👻 BUGS        → ENEMIES
+⚡ BIG COMMITS → POWER PELLETS
+🏆 PROJECTS    → BOSS LEVEL
+```
+
+### `CODE • EAT • DEBUG • REPEAT`
+
+</div>
 
 ---
 
 # ⚡ Tech Stack
 
-### ☕ Backend
+## ☕ Backend
 
-<p>
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+
 </p>
 
-**Java • Spring Boot • Maven • APIs REST**
+**Java • Spring Boot • Maven • REST APIs**
 
-### ⚛️ Frontend
+---
 
-<p>
+## ⚛️ Frontend
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css"/>
+
 </p>
 
 **React • React Native • TypeScript • JavaScript • HTML • CSS**
 
-### 🗄️ Banco de Dados
+---
 
-<p>
+## 🗄️ Banco de Dados
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 **MySQL • SQL**
 
-### 🛠️ Ferramentas
+---
 
-<p>
+## 🛠️ Ferramentas
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </p>
 
 **Git • GitHub • VS Code • Postman**
@@ -145,19 +197,22 @@ Meu objetivo é transformar ideias em aplicações **funcionais, modernas e esca
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasBlackS2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=LucasBlackS2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBlackS2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBlackS2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LucasBlackS2&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=LucasBlackS2&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -167,7 +222,9 @@ Meu objetivo é transformar ideias em aplicações **funcionais, modernas e esca
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/github-contribution-grid-snake.svg"/>
+<img
+src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -179,10 +236,10 @@ Meu objetivo é transformar ideias em aplicações **funcionais, modernas e esca
 Java / Spring Boot       ████████████████░░░░  80%
 React / React Native     ███████████████░░░░░  75%
 TypeScript               ██████████████░░░░░░  70%
+APIs REST                ███████████████░░░░░  75%
 MySQL / SQL              █████████████░░░░░░░  65%
-APIs REST                ███████████████░░░░░░ 75%
-Cloud Computing          ██████████░░░░░░░░░░  50%
 Inteligência Artificial  ███████████░░░░░░░░░  55%
+Cloud Computing          ██████████░░░░░░░░░░  50%
 ```
 
 ---
@@ -258,25 +315,9 @@ while (true) {
 ### ⭐ Gostou de algum projeto?
 
 **Deixe uma estrela ⭐ e acompanhe minha evolução!**
-</div>
-## 🎮 PAC-MAN DEV MODE
 
-<div align="center">
+<br>
 
-### 🟡 EAT COMMITS • DEFEAT BUGS • LEVEL UP
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contributions">
-</picture>
+### 🚀 CODE • BUILD • LEARN • REPEAT
 
 </div>

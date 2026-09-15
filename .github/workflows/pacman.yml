@@ -9,16 +9,18 @@ on:
 jobs:
   build:
     name: 🟡 Atualizar Pac-Man
-    runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
+    runs-on: ubuntu-latest
+
     timeout-minutes: 5
 
     steps:
+
       - name: 📥 Baixar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: 📁 Criar diretório
         run: mkdir -p dist

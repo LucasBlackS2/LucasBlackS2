@@ -321,25 +321,19 @@ while (true) {
 ### 🚀 CODE • BUILD • LEARN • REPEAT
 ## 🎮 PAC-MAN DEV MODE
 
-<p align="center">
 
+</div>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg"
   >
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
   >
-
   <img
-    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg"
+    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
     alt="Pac-Man comendo minhas contribuições"
   >
-
 </picture>
-
-</p>
-</div>

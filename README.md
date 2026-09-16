@@ -334,11 +334,6 @@ while (true) {
     srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
   >
 
-  <img
-    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg"
-    alt="Pac-Man comendo minhas contribuições"
-  >
-
 </picture>
 
 </p>

@@ -64,38 +64,7 @@ Meu objetivo é transformar ideias em aplicações **funcionais, modernas e esca
 
 ---
 
-# 🎮 PAC-MAN DEV MODE
 
-<div align="center">
-
-### 🟡 EAT COMMITS • DEFEAT BUGS • LEVEL UP
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
-
-<img
- src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
- alt="Pac-Man comendo minhas contribuições">
-
-</picture>
-
-<br><br>
-
-```text
-🟡 COMMITS     → 🍒 POINTS
-👻 BUGS        → ENEMIES
-⚡ BIG COMMITS → POWER PELLETS
-🏆 PROJECTS    → BOSS LEVEL
-```
-
-### `CODE • EAT • DEBUG • REPEAT`
 
 </div>
 
@@ -323,18 +292,38 @@ while (true) {
 
 
 </div>
+<div>
+
+# 🎮 PAC-MAN DEV MODE
+
+<div align="center">
+
+### 🟡 EAT COMMITS • DEFEAT BUGS • LEVEL UP
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
-  >
-  <img
-    src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
-    alt="Pac-Man comendo minhas contribuições"
-  >
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
+
+<img
+ src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg"
+ alt="Pac-Man comendo minhas contribuições">
+
 </picture>
-,veja oque esta errado e pq n aparece no portfolio a animação, corrija e me der o código correto 
+
+<br><br>
+
+```text
+🟡 COMMITS     → 🍒 POINTS
+👻 BUGS        → ENEMIES
+⚡ BIG COMMITS → POWER PELLETS
+🏆 PROJECTS    → BOSS LEVEL
+```
+
+### `CODE • EAT • DEBUG • REPEAT`
+</div>

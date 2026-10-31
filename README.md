@@ -88,11 +88,7 @@ public class JoseLucas {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/LucasBlackS2/LucasBlackS2/output/pacman-contribution-graph-dark.svg">
 
 </div>
 
